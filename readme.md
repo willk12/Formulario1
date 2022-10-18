@@ -4,10 +4,10 @@
    <img src="design/Formulario de Dev's" width="380" height="600">
 
 
-  <h3 align="center">VR3Telecom</h3>
+  <h3 align="center">Formulario</h3>
 
   <p align="center">
-    Criação de uma pagina para apresentação de uma rede de internet
+    Criação de uma pagina para formulario de Devs
        <br />
     <br />
     
@@ -16,7 +16,6 @@
 # Techs: 
 HTML<br>
 CSS<br>
-JavaScript
 
 
 
